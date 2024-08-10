@@ -1,6 +1,6 @@
 ## Hi there 👋
 My main go-to programming language is Python and I enjoy anything that is IT-related, especially cybersecurity and data science!
-I also lik to play FPS games in my free time.
+I also like to play FPS games in my free time.
 
 <!--
 **monitorseer/monitorseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
